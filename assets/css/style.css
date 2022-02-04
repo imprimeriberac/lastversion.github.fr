@@ -613,13 +613,13 @@ main h4 {
         display: inline-block;
         justify-content: center;
         font-family: "principal-font", 'Ubuntu', sans-serif;
-        font-size: rem;
+        font-size: 1rem;
         font-weight: 400;
         letter-spacing: 1px;
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 401px) {
     #container {
         width: 100%;
     }
@@ -635,7 +635,7 @@ main h4 {
         display: inline-block;
         justify-content: center;
         font-family: "principal-font", 'Ubuntu', sans-serif;
-        font-size: rem;
+        font-size: 1.5rem;
         font-weight: 200;
     }
 
@@ -660,7 +660,7 @@ main h4 {
         display: inline-block;
         justify-content: center;
         font-family: "principal-font", 'Ubuntu', sans-serif;
-        font-size: rem;
+        font-size: 1.5rem;
         font-weight: 200;
     }
 
@@ -669,6 +669,7 @@ main h4 {
     }
 }
 
+/* 
 @media screen and (max-width: 369px) {
 
     nav ul li {
@@ -676,7 +677,7 @@ main h4 {
         display: inline-block;
         justify-content: center;
         font-family: "principal-font", 'Ubuntu', sans-serif;
-        font-size: .3rem;
+        font-size: 1.5rem;
         font-weight: 100;
     }
-}
+} */
